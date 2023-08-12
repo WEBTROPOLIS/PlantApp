@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PlantApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_app">Bienvenido PlantApp</string>
+    <string name="welcome_subtitle">Ciudado Verde</string>
+    <string name="fab_exit_description">Salir</string>
+    <string name="count_singular">Encontramos 1 planta</string>
+    <string name="count_plural">Encontramos %d plantas</string>
+    <string name="title_exit_dialog">Salir</string>
+    <string name="message_exit_dialog">¿Estas seguro que deseas salir de la App?</string>
+    <string name="action_exit_positive">Sí</string>
+    <string name="action_exit_negative">No</string>
+    <string name="inside_item">Estas Viendo: %s</string>
+    <string name="fab_back_description">Boton volver</string>
+    <string name="fab_email_description">Boton enviar email</string>
+    <string name="img_details_description">imagen de la planta</string>
+    <string name="plant_type">Tipo: %s</string>
+    <string name="consulta_subject">Consulta por producto: %s id: %s</string>
+    <string name="consulta_message">Hola,\n\nVi el producto %s y me gustaría que me
+        contactaran a este e-mail o al siguiente número de telefono
+        [+56 y tu numero teléfonico]\n\nQuedo Atento.</string>
+    <string name="dialog_title_message_mail">Confirmación</string>
+    <string name="dialog_message_email">¿Estás seguro de que deseas enviar un correo para ser contactado?</string>
+    <string name="btn_positive_text">Sí</string>
+    <string name="email_to_send">luci@plantaapp.cl</string>
+    <string name="btn_negative_text">No</string>
+    <string name="intent_name">Enviar Correo</string>
+    <string name="email_format">text/plain</string>
+    <string name="et_search_hint">Buscar planta...</string>
+    <string name="Title_Hint_til">Buscar...</string>
+
+</resources>
